@@ -6,7 +6,7 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Marko Padilla");
 MODULE_DESCRIPTION("Basic USB-C to HDMI Linux Driver");
 
-// Replace with your actual USB-C to HDMI adapter's IDs (use lsusb)
+//  actual USB-C to HDMI adapter's IDs (use lsusb)
 #define USB_VENDOR_ID    0x1234
 #define USB_PRODUCT_ID   0x5678
 
